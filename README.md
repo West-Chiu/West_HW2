@@ -9,7 +9,7 @@
 1. Print the result in a organized format
 <br>
 
-**The output may looke like**<br>
+**The output may looke like:**<br>
 TO : to / 215 To / 5 <br>
 PRP$ : our / 101 their / 17 Our / 10 your / 6 its / 5 <br>
 NN : community / 72 world / 36 infrastructure / 24 share / 20 content / 20 <br>
