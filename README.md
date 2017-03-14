@@ -8,7 +8,7 @@
 1. Count the occurance of the words tagged with part of speech
 1. Print the result in a organized format
 <br>
-# **The output may looke like:**
+# **The output may looke like**
 <br>
 TO : to / 215 To / 5 
 PRP$ : our / 101 their / 17 Our / 10 your / 6 its / 5 
