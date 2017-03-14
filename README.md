@@ -1,7 +1,7 @@
 # West_HW2
 # **POS Word Count**<br>
 # Type the *file name* of a text file you choose in '' in the first line, and the program will count the frequency of each word in the context and catagorize them.<br><br>
-**The running steps of the program are**
+**The running steps of the program are:**
 1. Read the file
 1. Tokenize the context
 1. Tag part of speech in the tokenized context
@@ -9,7 +9,7 @@
 1. Print the result in a organized format
 <br>
 
-**The output may looke like:**<br>
+**The output may looke like:**<br><br>
 TO : to / 215 To / 5 <br>
 PRP$ : our / 101 their / 17 Our / 10 your / 6 its / 5 <br>
 NN : community / 72 world / 36 infrastructure / 24 share / 20 content / 20 <br>
