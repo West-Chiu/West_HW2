@@ -1,6 +1,6 @@
 # West_HW2
 # **POS Word Count**<br>
-# The default text file is building_global_community.txt. Type the *file name* of a text file you choose in '' in the first line if you want to change to another file, and the program will count the frequency of each word in the context and catagorize them.<br><br>
+# The default text file is 'building_global_community.txt'. Type the *file name* of a text file you choose in '' in the first line if you want to change to another file, and the program will count the frequency of each word in the context and catagorize them.<br><br>
 **The running steps of the program are:**
 1. Read the file
 1. Tokenize the context
